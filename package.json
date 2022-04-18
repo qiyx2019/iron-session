@@ -135,7 +135,7 @@
     "@typescript-eslint/eslint-plugin": "^5.15.0",
     "@typescript-eslint/parser": "^5.15.0",
     "concurrently": "^7.0.0",
-    "eslint": "^8.11.0",
+    "eslint": "8.13.0",
     "jest": "^27.5.1",
     "prettier": "^2.6.0",
     "prettier-plugin-packagejson": "^2.2.16",
